@@ -27,7 +27,7 @@ Project Organization
     ├── requirements.txt                        <- The requirements file for reproducing the analysis environment, e.g.
     │                                              generated with `pip freeze > requirements.txt`
     │
-    ├── U-Net_based_SemSeg_extendable_2022           <- Source code for use in this project.
+    ├── training_environment           <- Source code for use in this project.
     │   │
     │   ├── data                                <- Scripts to download or generate data
     │   │
